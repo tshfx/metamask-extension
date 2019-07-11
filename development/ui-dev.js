@@ -12,7 +12,7 @@
  * without having to re-enter your password
  * every time the plugin rebuilds.
  *
- * To use, run `npm run ui`.
+ * To use, run `yarn ui`.
  */
 
 const render = require('react-dom').render

@@ -9,7 +9,7 @@
  * This is a convenient way to develop and test the plugin
  * without having to re-open the plugin or even re-build it.
  *
- * To use, run `npm run mock`.
+ * To use, run `yarn mock`.
  */
 
 const render = require('react-dom').render
